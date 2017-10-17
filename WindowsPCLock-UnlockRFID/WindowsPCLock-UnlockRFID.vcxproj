@@ -77,9 +77,8 @@
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="WindowsPCLock_UnlockRFID.ino">
-      <FileType>CppCode</FileType>
-    </None>
+    <None Include="..\..\..\..\Documents\Fritzing\WindowsPCLock-UnlockRFID.fzz" />
+    <None Include="WindowsLock_UnlockRFID.ino" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

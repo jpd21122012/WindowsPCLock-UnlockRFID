@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="WindowsPCLock_UnlockRFID.ino" />
+    <None Include="WindowsLock_UnlockRFID.ino" />
+    <None Include="..\..\..\..\Documents\Fritzing\WindowsPCLock-UnlockRFID.fzz" />
   </ItemGroup>
- 
 </Project>
